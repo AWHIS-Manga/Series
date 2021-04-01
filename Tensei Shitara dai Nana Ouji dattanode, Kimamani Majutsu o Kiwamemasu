@@ -13,7 +13,7 @@
       },
       "last_updated": "1616480475"
     },
-	"16": {
+    "16": {
       "title": "Chapter 16",
       "volume": "1",
       "groups": {
@@ -21,7 +21,7 @@
       },
       "last_updated": "1616467201"
     },
-	"17": {
+    "17": {
       "title": "Chapter 17",
       "volume": "1",
       "groups": {
@@ -29,7 +29,7 @@
       },
       "last_updated": "1616636662"
     },
-	"18": {
+    "18": {
       "title": "Chapter 18",
       "volume": "1",
       "groups": {
@@ -37,7 +37,7 @@
       },
       "last_updated": "1617055547"
     },
-	"19": {
+    "19": {
       "title": "Chapter 19",
       "volume": "1",
       "groups": {
@@ -45,7 +45,7 @@
       },
       "last_updated": "1617159749"
     },
-	"20": {
+    "20": {
       "title": "Chapter 20",
       "volume": "1",
       "groups": {
@@ -53,13 +53,21 @@
       },
       "last_updated": "1617182961"
     },
-	"21": {
+    "21": {
       "title": "Chapter 21",
       "volume": "1",
       "groups": {
         "All we have is Speed": "/proxy/api/imgur/chapter/TAlOPFC/"
       },
       "last_updated": "1617248346"
+    },
+    "22": {
+      "title": "Chapter 22",
+      "volume": "1",
+      "groups": {
+        "All we have is Speed": "/proxy/api/imgur/chapter/dgaAEBc/"
+      },
+      "last_updated": "1617291231"
     }
   }
 }
