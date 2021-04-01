@@ -1,0 +1,17 @@
+{
+  "title": "Tensei Shitara dai Nana Ouji dattanode, Kimamani Majutsu o Kiwamemasu.",
+  "description": "<manga description>",
+  "artist": "<manga artist>",
+  "author": "<manga author>",
+  "cover": "https://s61.mkklcdnv6tempv2.com/mangakakalot/n1/ni924247/chapter_1_i_was_reincarnated_as_the_7th_prince/1.jpg",
+  "chapters": {
+    "15": {
+      "title": "Chapter 15",
+      "volume": "1",
+      "groups": {
+        "All we have is speed": "/proxy/api/imgur/chapter/9uFIpwF/"
+      },
+      "last_updated": "1616480475"
+    },
+  }
+}
