@@ -9,9 +9,57 @@
       "title": "Chapter 15",
       "volume": "1",
       "groups": {
-        "All we have is speed": "/proxy/api/imgur/chapter/9uFIpwF/"
+        "All we have is Speed": "/proxy/api/imgur/chapter/9uFIpwF/"
       },
       "last_updated": "1616480475"
+    },
+	"16": {
+      "title": "Chapter 16",
+      "volume": "1",
+      "groups": {
+        "All we have is Speed": "/proxy/api/imgur/chapter/ED3As36/"
+      },
+      "last_updated": "1616467201"
+    },
+	"17": {
+      "title": "Chapter 17",
+      "volume": "1",
+      "groups": {
+        "All we have is Speed": "/proxy/api/imgur/chapter/YZ0lOD0/"
+      },
+      "last_updated": "1616636662"
+    },
+	"18": {
+      "title": "Chapter 18",
+      "volume": "1",
+      "groups": {
+        "All we have is Speed": "/proxy/api/imgur/chapter/jfLbFeA/"
+      },
+      "last_updated": "1617055547"
+    },
+	"19": {
+      "title": "Chapter 19",
+      "volume": "1",
+      "groups": {
+        "All we have is Speed": "/proxy/api/imgur/chapter/UJgneHu/"
+      },
+      "last_updated": "1617159749"
+    },
+	"20": {
+      "title": "Chapter 20",
+      "volume": "1",
+      "groups": {
+        "All we have is Speed": "/proxy/api/imgur/chapter/APdR5hL/"
+      },
+      "last_updated": "1617182961"
+    },
+	"21": {
+      "title": "Chapter 21",
+      "volume": "1",
+      "groups": {
+        "All we have is Speed": "/proxy/api/imgur/chapter/TAlOPFC/"
+      },
+      "last_updated": "1617248346"
     }
   }
 }
