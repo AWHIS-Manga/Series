@@ -116,6 +116,30 @@
         "All we have is Speed": "/proxy/api/imgur/chapter/mITIoGp/" 
       },
       "last_updated": "1617444000"
+    },
+    "29": {
+      "title": "Chapter 29",
+      "volume": "1",
+      "groups": {
+        "All we have is Speed": "/proxy/api/imgur/chapter/GtHV748/" 
+      },
+      "last_updated": "1617514979"
+    },
+    "30": {
+      "title": "Chapter 30",
+      "volume": "1",
+      "groups": {
+        "All we have is Speed": "/proxy/api/imgur/chapter/OjY5DvL/" 
+      },
+      "last_updated": "1617520912"
+    },
+    "31": {
+      "title": "Chapter 31",
+      "volume": "1",
+      "groups": {
+        "All we have is Speed": "/proxy/api/imgur/chapter/mni2hO1/" 
+      },
+      "last_updated": "1617503112"
     }
   }
 }
