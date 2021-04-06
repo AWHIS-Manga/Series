@@ -12,6 +12,8 @@ Or if you are more proficcent with git you can fork this repo and do a pull requ
 
 ## Series
 
+[Request new series](https://github.com/AWHIS-Manga/Series/issues/2)
+
 
 ### Tensei Shitara dai Nana Ouji dattanode, Kimamani Majutsu o Kiwamemasu.
 #### I was reincarnated as the 7th Prince so I will perfect my magic as I please.
