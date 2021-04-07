@@ -1,0 +1,18 @@
+{
+  "title": "Sinner of the Azure Abyss",
+  "description": "For many centuries, merfolk have lived in the depths of the ocean where humanity cannot find them. However, when one mermaid’s best friend breaks their most sacred rule by falling in love with a human, she is forced to find that human to save her friend.",
+  "artist": "Tomi Akihiko",
+  "author": "Tomi Akihiko",
+  "cover": "https://i.imgur.com/4uHyCC7.png",
+  "chapters": {
+    "1": {
+      "title": "Chapter 1",
+      "volume": "1",
+      "groups": {
+        "TSP": "/proxy/api/imgur/chapter/6hbMZ7g/"
+      },
+      "last_updated": "1617704888"
+    },
+   
+  }
+}
