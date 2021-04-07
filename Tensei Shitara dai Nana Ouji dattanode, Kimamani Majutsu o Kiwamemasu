@@ -204,6 +204,14 @@
         "A pair of 2+ | TOOR": "/proxy/api/imgur/chapter/1SfAOiS/" 
       },
       "last_updated": "1617662396"
+    },
+    "40": {
+      "title": "Chapter 35",
+      "volume": "1",
+      "groups": {
+        "All we have is Speed": "/proxy/api/imgur/chapter/hotADI4/" 
+      },
+      "last_updated": "1617731445"
     }
   }
 }
