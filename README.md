@@ -10,6 +10,9 @@ This is the easy way to do it but it is easy to loose track of what ch has been 
 You can either drop the link in the issues for teh series (link below) and I will add it to the gist.  
 Or if you are more proficcent with git you can fork this repo and do a pull request.
 
+# Overall instructions
+https://www.reddit.com/r/manga/comments/mcicbp/sl_how_to_host_a_series_on_imgur_with_guyamoe/
+
 ## Series
 
 [Request new series](https://github.com/AWHIS-Manga/Series/issues/2)
@@ -21,3 +24,9 @@ Or if you are more proficcent with git you can fork this repo and do a pull requ
 
 * Link: https://cubari.moe/read/gist/JYV6w/
 * Submit: [new chapters](https://github.com/AWHIS-Manga/Series/issues/1)
+
+### Sinner of the Azure Abyss
+
+* Link: https://guya.moe/proxy/gist/JYNtw/
+* Submit: [new chapters](https://github.com/AWHIS-Manga/Series/issues/3)
+
