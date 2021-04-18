@@ -6,7 +6,7 @@
   "cover": "https://i.imgur.com/4uHyCC7.png",
   "chapters": {
     "1": {
-      "title": "Chapter 1",
+      "title": "Migration",
       "volume": "1",
       "groups": {
         "TSP": "/proxy/api/imgur/chapter/6hbMZ7g/"
