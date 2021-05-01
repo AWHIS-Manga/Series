@@ -222,6 +222,14 @@
         "A pair of 2+ | TOOR": "/proxy/api/imgur/chapter/w26vPSZ/" 
       },
       "last_updated": "1618176056"
+    },
+    "42": {
+      "title": "Chapter 42",
+      "volume": "1",
+      "groups": {
+        "A pair of 2+ | TOOR": "/proxy/api/imgur/chapter/gyd9Fp6/" 
+      },
+      "last_updated": "1619873312"
     }
   }
 }
